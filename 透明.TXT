@@ -1,0 +1,1 @@
+<style type="text/css"> .tab-panel {background: rgba(255,255,255,0.5) !important;} .login-textfield .input-container input { background-color: transparent !important; } body {-webkit-filter:brightness(1); -o-filter:brightness(1); -moz-filter:brightness(1); filter:brightness(1);} </style>
